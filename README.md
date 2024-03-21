@@ -46,16 +46,16 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/woonjun" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; width: auto; height: 10px;" />
 </a>
 <a href="https://linkedin.com/in/wonjun-choi-0492b42b9" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;width: auto; height: 10px;" />
 </a>
 <a href="https://medium.com/@cwj102859" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;width: auto; height: 10px;" />
 </a>  
 <a href="https://nirang.tistory.com/" target="_blank">
-<img src=https://i.namu.wiki/i/CNVaHZuf0Gh8FzOCf15jCbi5hULtTNYHUrf_5U2bD-uAbShxafelnrNhFULo7O0JAZeTTq6_bSveUA5mOVtlyQ.svg?&style=for-the-badge&logo=medium&logoColor=white alt=T-story style="margin-bottom: 5px;" />
+<img src=https://i.namu.wiki/i/CNVaHZuf0Gh8FzOCf15jCbi5hULtTNYHUrf_5U2bD-uAbShxafelnrNhFULo7O0JAZeTTq6_bSveUA5mOVtlyQ.svg?&style=for-the-badge&logo=medium&logoColor=white alt=T-story style="margin-bottom: 5px;width: auto; height: 10px;" />
 </a>  
 </div>  
   
