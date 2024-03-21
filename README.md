@@ -55,7 +55,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 <a href="https://nirang.tistory.com/" target="_blank">
-<img src=https://https://i.namu.wiki/i/CNVaHZuf0Gh8FzOCf15jCbi5hULtTNYHUrf_5U2bD-uAbShxafelnrNhFULo7O0JAZeTTq6_bSveUA5mOVtlyQ.svg?&style=for-the-badge&logo=medium&logoColor=white alt=T-story style="margin-bottom: 5px;" />
+<img src=https://i.namu.wiki/i/CNVaHZuf0Gh8FzOCf15jCbi5hULtTNYHUrf_5U2bD-uAbShxafelnrNhFULo7O0JAZeTTq6_bSveUA5mOVtlyQ.svg?&style=for-the-badge&logo=medium&logoColor=white alt=T-story style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
